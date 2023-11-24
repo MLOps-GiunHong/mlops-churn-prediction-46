@@ -16,7 +16,7 @@
     "job": {
       "asset_ref_type": "notebook",
       "configuration": {
-        "env_id": "rt222py",
+        "env_id": "rt231py",
         "file_ref": "src/train-churn-prediction.ipynb",
         "entrypoint": "",
         "env_type": "notebook",
